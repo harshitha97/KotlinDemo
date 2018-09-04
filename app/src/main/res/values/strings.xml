@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="random_heading">Random value betweeen 1 and %1d</string>
+</resources>
